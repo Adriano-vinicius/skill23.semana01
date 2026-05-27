@@ -26,7 +26,7 @@ O repositório está organizado seguindo a arquitetura padrão exigida:
 
 Para auditoria e acompanhamento do processo, acesse os arquivos diretamente na pasta `/docs`:
 
-1.  **[Inventário Técnico Detalhado](./docs/inventario.md)**: Listagem de Hardware (VMX2, Titan, Motores, Sensores) com ID, categoria, estado e responsáveis.
+1.  **[Inventário Técnico Detalhado](https://docs.google.com/spreadsheets/d/1UMRgk_2WuDZTr88OoBa5sZVCYMVPQAjd_BHBCy4WgEU/edit?usp=drivesdk)**: Listagem de Hardware (VMX2, Titan, Motores, Sensores) com ID, categoria, estado e responsáveis.
 2.  **[Checklist Elétrico e de Bancada](./docs/checklist.md)**: Protocolo obrigatório de segurança pré-energização.
 3.  **Diários Técnicos Individuais**:
     * [Diário Técnico - Competidor 1 Adriano](./docs/diario_Adriano.md)
