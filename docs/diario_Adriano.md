@@ -23,3 +23,14 @@ Compreendi a arquitetura de distribuição de energia do ecossistema: a corrente
 O mapeamento rigoroso dos cabos e o checklist pré-energização reduzem drasticamente o risco de danos por inversão de polaridade. O procedimento de reset realizado em dupla foi fundamental para estabelecer um ponto de partida confiável (baseline) para o desenvolvimento de software que iniciaremos nas próximas etapas.
 
 ---
+
+## 📅 Dia 3 (28/05) - Defesa Técnica e Gravação de Evidências em Vídeo
+### Atividades Executadas:
+- **Gravação dos Vídeos de Validação:** Produzi materiais em formato de vídeo explicando detalhadamente o ecossistema do robô para cumprir o critério de comunicação técnica. 
+- **Descrição das Explicações Técnicas:** Nos vídeos, realizei a descrição detalhada das funções e conexões do controlador **VMX2**, do driver de motores **Titan Quad**, da distribuição do painel elétrico, do cabeamento estruturado e do mapeamento das demais peças essenciais da bancada.
+- **Finalização da Linha de Base:** Validei junto com a dupla a consistência dos dados do repositório Git (Checklist e Inventário no Excel) para auditoria final do treinador.
+
+### Aprendizado Técnico e Conclusões do Dia:
+A gravação dos vídeos consolidou a habilidade de defender tecnicamente o projeto sob pressão, simulando a arguição oficial da WorldSkills. Explicar em voz alta as conexões de barramento, portas de controle e limites operacionais de potência fixa o conhecimento prático e garante que ambos os integrantes da dupla possuem domínio total sobre o hardware básico antes de avançarmos para a lógica de programação.
+
+---
